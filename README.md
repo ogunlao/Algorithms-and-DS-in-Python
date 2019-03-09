@@ -1,5 +1,5 @@
 # Algorithms-and-DS-in-Python
-This notebook contains Algorithm Challenges of the <a src="https://www.khanacademy.org/computing/computer-science/algorithms/">Khan Academy Algorithm Course</a>. The course uses Javascript for its codes but I decided to implement the algorithms in Python myself.
+This notebook contains Algorithm Challenges of the [Khan Academy Algorithm Course](https://www.khanacademy.org/computing/computer-science/algorithms/). The course uses Javascript for its codes but I decided to implement the algorithms in Python myself.
 
 There are implementations of:
 ### Search Algorithms
