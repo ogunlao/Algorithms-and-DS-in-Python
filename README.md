@@ -10,7 +10,11 @@ There are implementations of:
 - Insertion Sort
 ### Recursive Algorithms
 - Factorial
-- Detecting Palindromes
+- Palindrome Detection
 - Recursive Power
+- Sierpinski Triangle
+- Tower of Hanoi Challenge
+
+### Merge Sort
 
 Notebook still in development.
